@@ -90,7 +90,7 @@ body {
   width: 45px;
   height: 35px;
   position: absolute;
-  left: -13px;
+  left: -12px;
   top: -9px;
   cursor: pointer;
   z-index: 2;
@@ -737,7 +737,7 @@ small {
     transform: translateX(100%);
     background-color: var(--blue);
     padding: 0 1rem;
-    opacity: 0;
+    opacity: 1;
   }
 
   .container ul.slide {
