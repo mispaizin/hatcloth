@@ -215,14 +215,14 @@ body {
 
 
 .hatcloth .container {
-  padding: 1.4rem 7%;
+  padding: 4rem 7% 1.4rem;
   text-align: center;
 }
 
 .hatcloth h2 {
   font-size: 3rem;
   font-weight: 600;
-  margin: 2rem 0;
+  margin: 3rem 0;
 }
 
 .hatcloth span {
@@ -476,6 +476,10 @@ body {
 
 /* akhir testimoni */
 /* contact */
+.contact {
+  padding-top: 3rem;
+}
+
 .contact h2 {
   font-size: 3rem;
   text-align: center;
